@@ -1,0 +1,222 @@
+.logo-styling {
+    width: 313.26px;
+    height: 64px;
+    top: 0.89px;
+    margin-left: 79.79px;
+    gap: 0px;
+    border: 15px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+
+.top-styling{
+    width: 1450px;
+    height: 1000px;
+    margin-top: 80px;
+    margin-left: 32px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #E2F5FB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.eesential-vitamins-heading {
+    color: #003569;
+    font-size: 40px;
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 20px;
+}
+.online-medical-supplies-heading {
+color: #727272
+}
+.get-your-vitamins-heading {
+color:#17414F;
+}
+
+.width-and-height-of-total-page{
+    width: 100%;
+}
+
+.Explore-button-styling {
+    width: 189.14px;
+    height: 56px;
+    top: 176px;
+    padding: 0px 45px 0px 45px;
+    gap: 0px;
+    border-radius: 30px ;
+    opacity: 0px;
+    background: #17414F;
+    color: #ffffff;
+}
+
+.background-styling-of-probotics-box {
+    width: 393px;
+    height: 391px;
+    top: -487px;
+    left: 472px;
+    gap: 0px;
+    border-radius: 130px 0px 130px 0px;
+    opacity: 0px;
+    background: #FFE9B5;
+    margin-left: 50px;
+}
+
+.flexing-of-top-page {
+    display: flex;
+    justify-content: space-between;
+}
+.probotics-heading {
+width: 434px;
+height: 462px;
+top: 139px;
+left: 681px;
+gap: 0px;
+opacity: 0px;
+}
+
+.flexing-each-one {
+    display: flex;
+    margin-left: 30px;
+}
+
+.vitamins-image {
+width: 75px;
+height: 74px;
+top: 3px;
+gap: 0px;
+opacity: 0px;
+margin-left: 15px;
+}
+
+.vitamin-heading {
+    color : #17414F;
+    margin-left: 15px;
+}
+
+.paragraph-heading{
+    color:  #727272;
+    margin-left: 10px;
+}
+
+.another-color-in-top-styling {
+    background: #17414F;
+    width: 1350px;
+    height: 786px;
+    margin-top: 100px;
+    padding: 0px 52px 0px 52px;
+    gap: 0px;
+    border-radius: 120px;
+    opacity: 0px;
+   
+}
+
+.margin-bottom-of-second-top-styling-image {
+    background-image: linear-gradient(#E2F5FB 50%,#17414F 50%);
+}
+
+.color-of-heading-and-paragraph {
+    color: #ffffff;
+}
+
+.styling-of-three {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.margin-top-of-middle {
+    margin-top: 130px;
+    margin-left: 20px;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.margin-left-middle-two-images {
+    margin-left: 20px;
+}
+
+.our-blog-heading {
+    color:#003569;
+    text-align: center;
+}
+
+.width-and-height-of-image {
+    width: 90%;
+    height: 120px;
+}
+
+.width-of-last-image {
+    width: 90%;
+}
+
+.width-of-first-image{
+    width: 85%;
+}
+
+.background-of-last {
+width: 1443px;
+height: 387px;
+top: 3192px;
+gap: 0px;
+opacity: 0px;
+background-color: #17414F;
+
+}
+.background-of-each-one-below{
+background-color:#215D72;
+width: 400px;
+height: 90px;
+border-radius: 10px;
+margin: 50px;
+
+display: flex;
+justify-content: space-evenly;
+}
+
+.color-of-phone-number {
+    color: #ffffff;
+}
+
+.background-of-last-three {
+    display: flex;
+    justify-content: space-between;
+}
+
+.additional-margin-left {
+    margin-left: 60px;
+}
+
+@media (max-width:768px){
+    .margin-top-of-middle {
+      
+        margin-top: 130px;
+        margin-left: 20px;
+        display: flex;
+        width: 100%;
+        justify-content: space-around;
+        
+    }
+    .width-of-each-one {
+        width: 500px;
+        margin-left: 30px;
+    }
+
+    .our-blog-heading {
+        color:#003569;
+        margin-left: 600px;
+        font-size: 40px;
+        width: 100%;
+    }
+
+    .additional-flexing {
+        width: 400%;
+      }
+
+    .additional-margin-left {
+        margin-left: 60px;
+    }
+}
